@@ -1,0 +1,2 @@
+# hiho
+exercise for hihocoder
