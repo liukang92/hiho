@@ -1,0 +1,9 @@
+7
+aaabc
+aaac
+abcc
+ac
+bcd
+cd
+aaada
+aaaaaaaaaaabaaadaaac

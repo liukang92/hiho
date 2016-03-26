@@ -1,0 +1,6 @@
+7 4
+ABCDEFG
+CMD 1 2 5 C
+CMD 2 3 7 4
+CMD 3 3
+CMD 4 1 7
